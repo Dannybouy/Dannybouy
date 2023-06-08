@@ -9,7 +9,7 @@ Daniel is a Student, Developer and Teacher with a passion for learning and growi
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [danielokpara29@outlook.com](mailto:danielokpara29@outlook.com)
 * 🚀  I'm currently working on [A Freelancer Web App](http://ivoiceafrica.vercel.app/)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning ReactJS, NextJS, TypeScript
 * 🤝  I'm open to collaborating on Interesting Frontend Projects
 
 <a href="https://www.twitter.com/iamdannybouy20" target="_blank" rel="noreferrer"><img
