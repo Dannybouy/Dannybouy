@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Daniel is a Student, Developer and Teacher with a passion for learning and growing as a developer and also giving back to the community as a teacher. I am growing as a frontend developer and also learning to be great at it.
+Daniel is a Student, developer, and Teacher with a passion for learning and growing as a developer and also giving back to the community as a teacher. I am growing as a front-end developer and also learning to be great at it.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [danielokpara29@outlook.com](mailto:danielokpara29@outlook.com)
 * 🚀  I'm currently working on [A Freelancer Web App](http://ivoiceafrica.vercel.app/)
 * 🧠  I'm learning ReactJS, NextJS, TypeScript
-* 🤝  I'm open to collaborating on Interesting Frontend Projects
+* 🤝  I'm open to collaborating on Interesting front-end Projects
 
 <a href="https://www.twitter.com/iamdannybouy20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iamdannybouy20?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -28,8 +28,6 @@ src="https://img.shields.io/twitter/follow/iamdannybouy20?logo=twitter&style=for
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
